@@ -13,7 +13,7 @@ Clicking the link will download a file which can be opened in PowerBi desktop wh
 ## Dashboard preview
 Below is a snapshot of the dashboard interface for use by stakeholders:
 
-![Main analytics dashboard](Customer support tickets.png)
+![Main analytics dashboard](Customer_support_tickets.png)
 
 ## Key Business Insights
 - **Customer Satisfaction:** Customer satisfaction did not depend on average resolution time or ticket priority, suggesting that other factors are possibly affecting rating.
